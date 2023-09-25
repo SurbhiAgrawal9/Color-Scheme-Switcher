@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.button {
+  /* height: 100px;
+   width: 100px; */
+  padding: 20px 30px;
+  border-radius: 2px;
+  border: solid 1px black;
+  background-color: #fff;
+}
+#grey {
+  background-color: grey;
+}
+#white {
+  background-color: white;
+}
+#blue {
+  background-color: blue;
+}
+#pink {
+  background-color: pink;
+}
+#brown {
+  background-color: brown;
+}
+
+h3 {
+  margin-top: 70px;
+  text-align: center;
+}
